@@ -30,20 +30,15 @@ The Predictive Stock Analytics Web App is a machine learning-powered platform de
 
 ## How It Works
 
-1. **Data Input**:  
-   The user selects a stock ticker (e.g., AAPL, TSLA) and time frame. The app retrieves historical stock price data using the yFinance API.
+1. **Data Input**: The user selects a stock ticker (e.g., AAPL, TSLA) and time frame. The app retrieves historical stock price data using the yFinance API.
 
-2. **Preprocessing**:  
-   The raw data is scaled using MinMaxScaler and reshaped to fit the LSTM input format.
+2. **Preprocessing**: The raw data is scaled using MinMaxScaler and reshaped to fit the LSTM input format.
 
-3. **Model Prediction**:  
-   A pre-trained LSTM model (saved using Keras) processes the data to predict future stock prices.
+3. **Model Prediction**: A pre-trained LSTM model (saved using Keras) processes the data to predict future stock prices.
 
-4. **Visualization**:  
-   The app displays historical and predicted stock prices using Plotly and Matplotlib charts for easy comparison.
+4. **Visualization**: The app displays historical and predicted stock prices using Plotly and Matplotlib charts for easy comparison.
 
-5. **User Interaction**:  
-   All functionalities are available through a clean Streamlit web interface.
+5. **User Interaction**: All functionalities are available through a clean Streamlit web interface.
 
 ---
 
