@@ -8,7 +8,7 @@ The Predictive Stock Analytics Web App is a machine learning-powered platform de
 
 ## Technologies Used
 
-- Python 3.x  
+- Python 3.13.3 
 - Keras (with TensorFlow backend)  
 - Streamlit  
 - Pandas, NumPy  
@@ -30,7 +30,7 @@ The Predictive Stock Analytics Web App is a machine learning-powered platform de
 
 ## How It Works
 
-1. **Data Input**: Data Input: User selects a stock and time frame; the app fetches historical data via yFinance.
+1. **Data Input**: User selects a stock and time frame; the app fetches historical data via yFinance.
 
 2. **Preprocessing**: The raw data is scaled using MinMaxScaler and reshaped to fit the LSTM input format.
 
