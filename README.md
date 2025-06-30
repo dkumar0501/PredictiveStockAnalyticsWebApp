@@ -51,7 +51,7 @@ The Predictive Stock Analytics Web App is a machine learning-powered platform de
 
 ![Screenshot 2025-06-29 232806](https://github.com/user-attachments/assets/95891bea-e28a-4407-a9fb-8f5c63fe8983)
 
----
+--- 
 ## Installation
 
 Clone the repository and install dependencies:
