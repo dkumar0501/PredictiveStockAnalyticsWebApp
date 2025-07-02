@@ -15,7 +15,7 @@ The Predictive Stock Analytics Web App is a machine learning-powered platform de
 - Matplotlib, Plotly  
 - yFinance (for stock data retrieval)  
 - Scikit-learn  
-
+ 
 ---
 
 ## Key Features
