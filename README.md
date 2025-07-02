@@ -40,6 +40,7 @@ The Predictive Stock Analytics Web App is a machine learning-powered platform de
 
 5. **User Interaction**: All functionalities are available through a clean Streamlit web interface.
 
+## Project Working Screenshots
 
 ![Screenshot 2025-06-29 233131](https://github.com/user-attachments/assets/5ca55030-636d-4d76-ac46-2a5ce9c19c94)
 
