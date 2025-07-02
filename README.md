@@ -1,4 +1,4 @@
-# Predictive Stock Analytics Web App
+# Predictive Stock Analytics Web App 
 
 ## Overview
 
