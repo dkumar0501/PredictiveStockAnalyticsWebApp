@@ -10,7 +10,7 @@ start = '2010-01-01'
 end = '2024-12-31'
 
 # Streamlit UI
-st.title('Stock Trend Prediction')
+st.title('Stock Trend Prediction') 
 
 user_input = st.text_input('Enter Stock Ticker', 'TSLA')
 
