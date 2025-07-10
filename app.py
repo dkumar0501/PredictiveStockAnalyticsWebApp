@@ -21,7 +21,7 @@ df = yf.download(user_input, start=start, end=end)
 st.subheader('Data from 2010 - 2024')
 st.write(df.describe())
 
-# Visualizations
+# Visualizations 
 st.subheader('Closing Price Vs Time Graph')
 fig = plt.figure(figsize=(12, 6))
 plt.plot(df['Close'])  
