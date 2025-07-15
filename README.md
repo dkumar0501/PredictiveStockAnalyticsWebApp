@@ -6,7 +6,7 @@ The Predictive Stock Analytics Web App is a machine learning-powered platform de
  
 ---   
    
-## Technologies Used  
+## Technologies Used   
   
 - Python 3.13.3   
 - Keras (with TensorFlow backend)  
