@@ -1,7 +1,7 @@
 # Predictive Stock Analytics Web App 
  
 ## Overview 
- 
+  
 The Predictive Stock Analytics Web App is a machine learning-powered platform designed to forecast future stock trends based on historical market data. Built with Keras and integrated into a user-friendly Streamlit interface, the app provides real-time visual insights and predictions to assist users in making informed trading decisions.
  
 ---   
