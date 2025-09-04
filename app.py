@@ -12,7 +12,7 @@ end = '2024-12-31'
 # Streamlit UI 
 st.title('Stock Trend Prediction')    
  
-user_input = st.text_input('Enter Stock Ticker', 'TSLA') 
+user_input = st.text_input('Enter Stock Ticker', 'TSLA')  
 
 # Download data
 df = yf.download(user_input, start=start, end=end)
