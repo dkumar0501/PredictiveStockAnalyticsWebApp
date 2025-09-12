@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import yfinance as yf     
 from keras.models import load_model       
 import streamlit as st       
-impo 
+imp
                 
 # Set date range         
 start = '2010-01-01'             
