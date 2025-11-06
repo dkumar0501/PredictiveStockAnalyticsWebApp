@@ -14,7 +14,7 @@
 
 ## 📘 Overview
 
-This project presents a **machine learning-powered stock analytics web application** designed to **predict future stock price trends** using **LSTM (Long Short-Term Memory)** neural networks. Built with **Python, Keras, and Streamlit**, it provides **real-time visualization and forecasting** based on historical stock market data, enabling users to make **data-driven investment decisions**.
+This project presents a **machine learning powered stock analytics web application** designed to **predict future stock price trends** using **LSTM (Long Short Term Memory)** neural networks. Built with **Python, Keras, and Streamlit**, it provides real time visualization and forecasting based on historical stock market data, enabling users to make **data driven investment decisions**.
 
 ## 🚀 Features
 
