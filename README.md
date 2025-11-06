@@ -1,63 +1,66 @@
-# Predictive Stock Analytics Web App 
- 
-## Overview 
-  
-The Predictive Stock Analytics Web App is a machine learning-powered platform designed to forecast future stock trends based on historical market data. Built with Keras and integrated into a user-friendly Streamlit interface, the app provides real-time visual insights and predictions to assist users in making informed trading decisions.
- 
----   
-   
-## Technologies Used   
-  
-- Python 3.13.3   
-- Keras (with TensorFlow backend)  
-- Streamlit  
-- Pandas, NumPy  
-- Matplotlib, Plotly  
-- yFinance (for stock data retrieval)  
-- Scikit-learn  
- 
+<h1 align="left">Predictive Stock Analytics Web App</h1>
+
+<p align="left">
+  <strong>Finance • Python • Deep Learning • Streamlit • LSTM</strong>
+</p>
+
+<!-- Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Keras-TensorFlow-orange?logo=tensorflow&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/Streamlit-Interactive%20UI-red?logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Finance%20Data-yFinance-success?logo=yahoo&logoColor=white" alt="yFinance">
+</p>
+
+## 📘 Overview
+
+This project presents a **machine learning-powered stock analytics web application** designed to **predict future stock price trends** using **LSTM (Long Short-Term Memory)** neural networks.  
+Built with **Python, Keras, and Streamlit**, it provides **real-time visualization and forecasting** based on historical stock market data, enabling users to make **data-driven investment decisions**.
+
+## 🚀 Features
+
+- Forecasts future stock price trends using **LSTM-based models**  
+- Fetches **real-time market data** via the yFinance API  
+- Interactive **Plotly and Matplotlib visualizations**  
+- **Streamlit-based web interface** for seamless user experience  
+- Modular and scalable design for easy extension and deployment  
+
+## 🧠 Technical Overview
+
+| Component | Description |
+|------------|-------------|
+| **Programming Language** | Python |
+| **Frameworks & Libraries** | Keras, TensorFlow, Streamlit, NumPy, Pandas, Matplotlib, Plotly, Scikit-learn |
+| **Data Source** | yFinance API for live and historical stock data |
+| **Model Type** | LSTM (Long Short-Term Memory) Neural Network |
+| **Preprocessing** | Scaling and reshaping using MinMaxScaler |
+| **Deployment** | Streamlit web app for real-time predictions |
+
+## 🧩 Workflow
+
+1. **Data Input:** User selects stock and time frame; data fetched via yFinance  
+2. **Preprocessing:** Data scaled and reshaped for LSTM input format  
+3. **Model Prediction:** Pre-trained LSTM predicts future stock prices  
+4. **Visualization:** Predicted and historical trends plotted dynamically  
+5. **User Interaction:** All insights displayed via an intuitive Streamlit interface  
+
+## 📷 Project Working  Video
+
+https://github.com/user-attachments/assets/424d69d3-fff7-4cb6-b1e0-7f76576375ce
+
+## 🧩 Future Enhancements
+
+- Integration with **real-time trading APIs** for actionable insights  
+- Addition of **sentiment analysis** from financial news and social media  
+- Incorporation of **multi-stock correlation analysis**  
+- Deployment on **cloud platforms (AWS / GCP)** for scalability  
+
+## 👨‍💻 Author
+
+**Developed by [D Kumar](https://github.com/dkumar0501)**  **[IIT Patna]**
+
 ---
 
-## Key Features
-
-- Stock trend forecasting using LSTM (Long Short-Term Memory) deep learning models  
-- Real-time fetching of historical stock data via yFinance  
-- Interactive visualizations of stock trends  
-- Simple and intuitive user interface for non-technical users  
-- Modular design for scalability and further model enhancement  
-
----
-
-## How It Works
-
-1. **Data Input**: User selects a stock and time frame; the app fetches historical data via yFinance.
-
-2. **Preprocessing**: The raw data is scaled using MinMaxScaler and reshaped to fit the LSTM input format.
-
-3. **Model Prediction**: A pre-trained LSTM model (saved using Keras) processes the data to predict future stock prices.
-
-4. **Visualization**: The app displays historical and predicted stock prices using Plotly and Matplotlib charts for easy comparison.
-
-5. **User Interaction**: All functionalities are available through a clean Streamlit web interface.
-
-## Project Working Screenshots
-
-![Screenshot 2025-06-29 233131](https://github.com/user-attachments/assets/5ca55030-636d-4d76-ac46-2a5ce9c19c94)
-
-![Screenshot 2025-06-29 233827](https://github.com/user-attachments/assets/4634a39e-9372-4a5a-9992-6935cdb98d13)
-
-![Screenshot 2025-06-29 232740](https://github.com/user-attachments/assets/b9bbcc44-31b9-4d02-beb8-7de223eb0d9b)
-
-![Screenshot 2025-06-29 232754](https://github.com/user-attachments/assets/ace890dd-bc6e-4fa8-9829-d084872911a1)
-
-![Screenshot 2025-06-29 232806](https://github.com/user-attachments/assets/95891bea-e28a-4407-a9fb-8f5c63fe8983)
-
---- 
-## Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/predictive-stock-analytics.git
-cd predictive-stock-analytics
-pip install -r requirements.txt
+<p align="center">
+  <em>“Empowering financial foresight through intelligent data analytics.”</em>
+</p>
