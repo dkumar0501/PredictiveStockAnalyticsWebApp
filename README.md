@@ -4,7 +4,7 @@
   <strong>Finance • Python • Deep Learning • Streamlit • LSTM</strong> 
 </p>
   
-<!-- Badges -->
+<!-- Badges --> 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Keras-TensorFlow-orange?logo=tensorflow&logoColor=white" alt="Keras">
