@@ -1,5 +1,5 @@
 <h1 align="left">Predictive Stock Analytics Web App</h1>   
-
+ 
 <p align="left">
   <strong>Finance • Python • Deep Learning • Streamlit • LSTM</strong> 
 </p>
