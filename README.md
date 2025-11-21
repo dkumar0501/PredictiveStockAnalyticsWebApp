@@ -2,7 +2,7 @@
  
 <p align="left">
   <strong>Finance • Python • Deep Learning • Streamlit • LSTM</strong> 
-</p>
+</p> 
   
 <!-- Badges --> 
 <p align="left">
